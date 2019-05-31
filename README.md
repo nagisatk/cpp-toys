@@ -1,2 +1,2 @@
 # cpp-toys
-some toys writen in C++.
+some toys written in C++.
